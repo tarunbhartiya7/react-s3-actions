@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        AWS Cloudfront is Awesome!
+        AWS Cloudfront with S3 static hosting is Awesome!
       </header>
     </div>
   );
